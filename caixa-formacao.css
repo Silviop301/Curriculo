@@ -1,0 +1,27 @@
+.conteudo-formacao{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-content: center;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+.image-box{
+    margin: 20px;
+    padding-bottom: 15px;
+    width: 220px;
+    height: 311px;
+    animation-name: animacao;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-fill-mode: none;
+}
+.caixa-formacao{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #E2DCC8;
+}

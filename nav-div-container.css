@@ -1,0 +1,7 @@
+.nav-div-container{
+    width: 48px;
+    height: 48px;
+    overflow: hidden;
+    margin-left: 15px;
+    border-radius: 100%;
+}

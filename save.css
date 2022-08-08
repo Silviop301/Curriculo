@@ -1,0 +1,13 @@
+.image-box{
+    text-align: center;
+    padding: 15px;
+    background-color: none;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}

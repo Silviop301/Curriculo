@@ -1,0 +1,8 @@
+
+@keyframes animacao{
+
+    0% {background-image: url('logo_css.png')}
+    33% {background-image: url('logo_html.png')}
+    66% {background-image: url('logo_js.png')}
+    100% {background-image: url('logo_css.png')}
+}

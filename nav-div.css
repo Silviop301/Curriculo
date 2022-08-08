@@ -1,0 +1,10 @@
+.nav-div{
+    padding-right: 10px;
+    font-size: 1.4rem;
+    color: #354259;
+    text-decoration: none;
+}
+.nav-div:hover{
+    cursor: pointer;
+    color: black;
+}
